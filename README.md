@@ -1,5 +1,7 @@
 # RandomName
 
+# 源项目链接 https://github.com/Netrvin/RandomName
+
 ## 点名器
 
 ### 特性
